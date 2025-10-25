@@ -1,0 +1,4 @@
+  3 history
+   4 git status
+   5 git add .
+   6 git status

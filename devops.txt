@@ -4,4 +4,4 @@
    6 git status
    7 git add
    updated code
-   
+   This is some new changes, try to pull into your local from github

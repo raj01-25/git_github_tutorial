@@ -2,3 +2,4 @@
    4 git status
    5 git add .
    6 git status
+   7 git add
